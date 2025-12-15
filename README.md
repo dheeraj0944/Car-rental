@@ -53,6 +53,8 @@ This project is created for learning purposes.
 👤 Author
 
 Dheeraj
-GitHub: https://github.com/dheeraj0944
-git clone https://github.com/dheeraj0944/Car-rental.git
+GitHub: https://github.com/dheeraj0944  
+
+git clone https://github.com/dheeraj0944/Car-rental.git  
+
 cd Car-rental
