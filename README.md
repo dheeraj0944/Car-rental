@@ -41,19 +41,6 @@ Open your browser and visit:
 
 http://localhost:3000
 
-📂 Project Structure
-Car-rental/
-├── app/            # Application entry and routing
-├── components/     # Reusable UI components
-├── hooks/          # Custom React hooks
-├── lib/            # Utility functions
-├── models/         # TypeScript interfaces and models
-├── public/         # Static assets
-├── styles/         # Global and component styles
-├── package.json    # Project dependencies
-├── tsconfig.json   # TypeScript configuration
-└── README.md
-
 🤝 Contributing
 
 Contributions are welcome.
